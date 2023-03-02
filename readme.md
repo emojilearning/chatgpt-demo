@@ -1,3 +1,5 @@
+implement chatgpt with openai gpt-3.5-tubo api
+
 ## instruction
 apply for api_key of chatgpt and complete the api_key in the code
 ```
