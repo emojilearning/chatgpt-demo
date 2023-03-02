@@ -1,5 +1,9 @@
 ## instruction
-apply for api_key of chatgpt and completion in the api_key
+apply for api_key of chatgpt and complete the api_key in the code
+```
+openai.api_key = "" # os.getenv("OPENAI_API_KEY")
+```
+make sure openai service is avaliable in your aera
 ```
 python chatgpt.py
 ```
